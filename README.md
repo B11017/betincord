@@ -1,6 +1,6 @@
 # Betincord
 A better version of discord. 
-![image](https://user-images.githubusercontent.com/111641383/188292657-f6a6c82d-ecd1-40e4-8b96-889d29f872c5.jpeg)
+![image](https://media.discordapp.net/attachments/1015763855424618526/1015794444588548166/Untitled212_20220903212033.png)
 
 # Download
 | Edition | Link
